@@ -1,2 +1,11 @@
-# douyinqianduanmianshiti
-Created with CodeSandbox
+#### 部分代码在`App.vue`中
+* 域名倒置
+* 查找重复数字
+* 版本比较
+* 对象扁平化
+​
+#### 其余实现可在`src/components`路径下查看
+* 左右布局
+* 搜索列表组件
+* Toast组件
+* 多层级目录树组件
